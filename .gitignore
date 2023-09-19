@@ -219,3 +219,14 @@ cython_debug/
 #.idea/
 
 # End of https://www.toptal.com/developers/gitignore/api/python
+# Created by https://www.toptal.com/developers/gitignore/api/vsc
+# Edit at https://www.toptal.com/developers/gitignore?templates=vsc
+
+#!! ERROR: vsc is undefined. Use list command to see defined gitignore types !!#
+
+# End of https://www.toptal.com/developers/gitignore/api/vsc
+nn
+# Ignore dynaconf secret files
+.secrets.*
+res/
+.vscode/
