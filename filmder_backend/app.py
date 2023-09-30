@@ -38,6 +38,6 @@ async def get_movie(movie_id: int) -> dict[str, str | int | list]:
     }
 
 
-@app.post("/movies/create")
-async def create_movie(movie: Movie):
-    return movie
+# @app.post("/movies/create")
+# async def create_movie(movie: Movie):
+#     return movie
